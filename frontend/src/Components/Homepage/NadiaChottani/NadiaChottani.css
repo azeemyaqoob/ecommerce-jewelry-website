@@ -1,0 +1,138 @@
+.main_div_nadia {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+  background-image: url("./../../../Assets/bg_nadia.png");
+  padding-bottom: 30px;
+}
+.heading_nadia {
+  color: #000000;
+  font-family: "David Libre", serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 38.61px;
+  text-align: center;
+}
+.para_nadia {
+  color: #000000;
+  font-family: "Franklin Gothic Book", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 27.21px;
+  text-align: center;
+}
+.input_heading_nadia {
+  color: #000000;
+  font-family: "David Libre", serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 49.5px;
+  text-align: left;
+  margin-top: 20px;
+  width: 100%;
+  background-color: transparent;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: #b9935b;
+  height: 50px;
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 1200px) {
+  .main_div_nadia {
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .heading_nadia {
+    color: #000000;
+    font-family: "David Libre", serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 32.61px;
+    text-align: center;
+  }
+  .para_nadia {
+    color: #000000;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.21px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_nadia {
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .heading_nadia {
+    color: #000000;
+    font-family: "David Libre", serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 28.61px;
+    text-align: center;
+  }
+  .para_nadia {
+    color: #000000;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.21px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_nadia {
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .heading_nadia {
+    color: #000000;
+    font-family: "David Libre", serif;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 28.61px;
+    text-align: center;
+  }
+  .para_nadia {
+    color: #000000;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.21px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .main_div_nadia {
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .heading_nadia {
+    color: #000000;
+    font-family: "David Libre", serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28.61px;
+    text-align: center;
+  }
+  .para_nadia {
+    color: #000000;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.21px;
+    text-align: center;
+  }
+}

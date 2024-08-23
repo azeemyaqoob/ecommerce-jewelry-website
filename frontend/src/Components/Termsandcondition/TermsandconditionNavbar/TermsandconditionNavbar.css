@@ -1,0 +1,127 @@
+.main_div_termandcondition_navbar {
+  width: 100%;
+  height: 280px;
+  background-image: url("./../../../Assets/bg\ termand\ codition.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.heading_termandcondition {
+  color: #302f2f;
+  font-family: "David Libre", serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 48.27px;
+  text-align: center;
+  padding-top: 70px;
+}
+@media only screen and (max-width: 2700px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 280px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 90px;
+  }
+}
+@media only screen and (max-width: 1900px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 230px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 90px;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 190px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 70px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 170px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 170px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_termandcondition_navbar {
+    width: 100%;
+    height: 170px;
+    background-image: url("./../../../Assets/bg\ termand\ codition.png");
+    background-size: 100% 100%;
+    background-repeat: auto;
+  }
+  .heading_termandcondition {
+    color: #302f2f;
+    font-family: "David Libre", serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 48.27px;
+    text-align: center;
+    padding-top: 60px;
+  }
+}

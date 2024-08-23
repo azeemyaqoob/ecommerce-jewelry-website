@@ -1,0 +1,186 @@
+.main_div_footer {
+  background: #b9935b;
+  width: 100%;
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.helpfullink_para {
+  color: #ffffff;
+  font-family: "Franklin Gothic Book", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 27.21px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+.serach_helpfulink_para {
+  color: #ffffff;
+  font-family: "Franklin Gothic Book", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.14px;
+  text-align: left;
+}
+.input_style_connected {
+  background: #ffffff;
+  width: 80%;
+  height: 43px;
+  border-style: none;
+  border-color: none;
+  outline: none;
+  margin-top: 20px;
+}
+.btn_connected {
+  width: 48px;
+  height: 43px;
+  background: #d9d9d9;
+  border-style: none;
+  border-color: none;
+  outline: none;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.icon_footer {
+  margin-right: 10px;
+  width: 18px;
+  height: 18px;
+  margin-top: 60px;
+}
+.serach_helpfulink_para1 {
+  color: #ffffff;
+  font-family: "Franklin Gothic Book", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.14px;
+  text-align: left;
+  margin-top: 45px;
+}
+a {
+  color: white !important;
+  text-decoration: none !important;
+  background-color: transparent !important;
+  -webkit-text-decoration-skip: objects;
+}
+@media only screen and (max-width: 1370px) {
+  .main_div_footer {
+    background: #b9935b;
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .helpfullink_para {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.21px;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .serach_helpfulink_para {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.14px;
+    text-align: left;
+  }
+  .input_style_connected {
+    background: #ffffff;
+    width: 80%;
+    height: 43px;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-top: 20px;
+  }
+  .btn_connected {
+    width: 48px;
+    height: 43px;
+    background: #d9d9d9;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .icon_footer {
+    margin-right: 10px;
+    width: 16px;
+    height: 16px;
+    margin-top: 60px;
+  }
+  .serach_helpfulink_para1 {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.14px;
+    text-align: left;
+    margin-top: 45px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_footer {
+    background: #b9935b;
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .helpfullink_para {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.21px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  .serach_helpfulink_para {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.14px;
+    text-align: left;
+  }
+  .input_style_connected {
+    background: #ffffff;
+    width: 80%;
+    height: 43px;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-top: 0px;
+  }
+  .btn_connected {
+    width: 48px;
+    height: 43px;
+    background: #d9d9d9;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-top: 0px;
+    margin-left: 10px;
+  }
+  .icon_footer {
+    margin-right: 10px;
+    width: 16px;
+    height: 16px;
+    margin-top: 20px;
+  }
+  .serach_helpfulink_para1 {
+    color: #ffffff;
+    font-family: "Franklin Gothic Book", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.14px;
+    text-align: left;
+    margin-top: 45px;
+  }
+}

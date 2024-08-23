@@ -1,0 +1,108 @@
+.main_div_bangle_sizeguide {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+.grey_div_banglesizeguide {
+  width: 100%;
+  height: 472px;
+  background: #d9d9d9;
+  overflow: hidden;
+}
+.bangle_style_icon1 {
+  width: 400px;
+  height: 400px;
+  margin-top: 40px;
+  margin-left: 90px;
+}
+.bangle_style_icon2 {
+    width: 400px;
+    height: 400px;
+    margin-top: 40px;
+    margin-right: 30px;
+  }
+
+  @media only screen and (max-width: 1400px) {
+    .main_div_bangle_sizeguide {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background-color: white;
+      }
+      .grey_div_banglesizeguide {
+        width: 100%;
+        height: 372px;
+        background: #d9d9d9;
+      }
+      .bangle_style_icon1 {
+        width: 300px;
+        height: 300px;
+        margin-top: 40px;
+        margin-left: 90px;
+      }
+      .bangle_style_icon2 {
+          width: 300px;
+          height: 300px;
+          margin-top: 40px;
+          margin-right: 30px;
+        }
+  }
+
+
+  @media only screen and (max-width: 1200px) {
+    .main_div_bangle_sizeguide {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background-color: white;
+      }
+      .grey_div_banglesizeguide {
+        width: 100%;
+        height: 300px;
+        background: #d9d9d9;
+      }
+      .bangle_style_icon1 {
+        width: 200px;
+        height: 200px;
+        margin-top: 40px;
+        margin-left: 90px;
+      }
+      .bangle_style_icon2 {
+          width: 200px;
+          height: 200px;
+          margin-top: 40px;
+          margin-right: 30px;
+        }
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .main_div_bangle_sizeguide {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background-color: white;
+      }
+      .grey_div_banglesizeguide {
+        width: 100%;
+        height: 200px;
+        background: #d9d9d9;
+      }
+      .bangle_style_icon1 {
+        width: 100px;
+        height: 100px;
+        margin-top: 40px;
+        margin-left: 40px;
+      }
+      .bangle_style_icon2 {
+          width: 100px;
+          height: 100px;
+          margin-top: 40px;
+          margin-right: 30px;
+        }
+  }

@@ -1,0 +1,992 @@
+.uppernavbar {
+  width: 100%;
+  height: 49px;
+}
+.inside_div_navbar {
+  width: 79%;
+  margin-left: 21%;
+  transform: translateY(60%) !important;
+  border-bottom: 1px solid #ebebeb;
+}
+.main_div_clock {
+  margin-left: 30px;
+}
+.clock_style_syn {
+  width: 12.04px;
+  height: 12px;
+  margin-top: 6px;
+}
+.phone_style_syn {
+  width: 32.04px;
+  height: 32px;
+  transform: translateY(-12%);
+}
+.clock_para_syn {
+  color: #050c18;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-left: 10px;
+}
+.phone_para_syn_bold {
+  color: #111111;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.social-media-row {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 10px;
+  margin-left: 15px;
+  transform: translateY(-12%);
+}
+
+.social-icon {
+  font-size: 0.7rem; /* Adjust the size as needed */
+  color: #000; /* Adjust the color as needed */
+  transition: color 0.3s;
+  margin-left: 3px;
+}
+
+.social-icon:hover {
+  color: #e7e7e7; /* Change color on hover */
+}
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.social-media-row {
+  display: flex;
+  gap: 10px;
+}
+
+.social-icon {
+  font-size: 0.7rem;
+  color: #000; /* Adjust the color as needed */
+}
+.synergytech_logo {
+  width: 249.43px;
+  height: 90px;
+  margin-left: 35px;
+  transform: translateY(-50%) !important;
+}
+.navitems_synergytechnavbar1 {
+  color: #111111 !important;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  margin-left: 100px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.navitems_synergytechnavbar1:hover {
+  color: #111111 !important;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  margin-right: 30px;
+  text-decoration: underline;
+}
+.navitems_synergytechnavbar {
+  color: #111111 !important;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.navitems_synergytechnavbar:hover {
+  color: #111111 !important;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  margin-right: 30px;
+  text-decoration: underline;
+}
+.btn_request_quote {
+  background: #023496;
+  width: 250px;
+  height: 83px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.1599999964237213px;
+  text-align: center;
+  color: #ffffff;
+  border-style: none;
+  border-color: none;
+  outline: none;
+}
+@media only screen and (max-width: 1400px) {
+  .uppernavbar {
+    width: 100%;
+    height: 49px;
+  }
+  .inside_div_navbar {
+    width: 79%;
+    margin-left: 21%;
+    transform: translateY(70%) !important;
+    border-bottom: 1px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 30px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 25.04px;
+    height: 25px;
+    transform: translateY(-9%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px;
+    margin-left: 15px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.6rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 3px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .synergytech_logo {
+    width: 199.43px;
+    height: 80px;
+    margin-left: 35px;
+    transform: translateY(-40%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-left: 25px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .uppernavbar {
+    width: 100%;
+    height: 49px;
+  }
+  .inside_div_navbar {
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 10px;
+    transform: translateY(40%) !important;
+    border-bottom: 1px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 30px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 25.04px;
+    height: 25px;
+    transform: translateY(-9%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px;
+    margin-left: 15px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.6rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 3px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .synergytech_logo {
+    width: 199.43px;
+    height: 80px;
+    margin-left: 35px;
+    transform: translateY(0%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-left: 25px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .uppernavbar {
+    width: 100%;
+    height: 49px;
+  }
+  .inside_div_navbar {
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 10px;
+    transform: translateY(4%) !important;
+    border-bottom: 0px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 10px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 25.04px;
+    height: 25px;
+    transform: translateY(-9%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px;
+    margin-left: 15px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.6rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 3px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-right: 15px;
+  }
+
+  .content-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content-wrapper > div {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .social-media-row {
+    justify-content: center;
+  }
+  .transform_second_div {
+    transform: translateY(-60%) !important;
+  }
+  .synergytech_logo {
+    width: 199.43px;
+    height: 80px;
+    margin-left: 35px;
+    transform: translateY(0%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 30px;
+
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .uppernavbar {
+    width: 100%;
+    height: 49px;
+  }
+  .inside_div_navbar {
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 10px;
+    transform: translateY(4%) !important;
+    border-bottom: 0px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 10px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 25.04px;
+    height: 25px;
+    transform: translateY(-9%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5px;
+    margin-left: 9px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.65rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 3px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-right: 15px;
+  }
+
+  .content-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content-wrapper > div {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .social-media-row {
+    justify-content: center;
+  }
+  .transform_second_div {
+    transform: translateY(-70%) !important;
+  }
+  .synergytech_logo {
+    width: 139.43px;
+    height: 50px;
+    margin-left: 35px;
+    transform: translateY(0%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 30px;
+
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .uppernavbar {
+    width: 100%;
+    height: 49px;
+  }
+  .inside_div_navbar {
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 10px;
+    transform: translateY(4%) !important;
+    border-bottom: 0px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 10px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 15.04px;
+    height: 15px;
+    transform: translateY(20%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 4px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5px;
+    margin-left: 9px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.65rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 1px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-right: 15px;
+  }
+
+  .content-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content-wrapper > div {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .social-media-row {
+    justify-content: center;
+  }
+  .transform_second_div {
+    transform: translateY(-70%) !important;
+  }
+  .synergytech_logo {
+    width: 119.43px;
+    height: 40px;
+    margin-left: 35px;
+    transform: translateY(0%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 30px;
+
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .uppernavbar {
+    display: none;
+  }
+  .inside_div_navbar {
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 10px;
+    transform: translateY(4%) !important;
+    border-bottom: 0px solid #ebebeb;
+  }
+  .main_div_clock {
+    margin-left: 10px;
+  }
+  .clock_style_syn {
+    width: 12.04px;
+    height: 12px;
+    margin-top: 6px;
+  }
+  .phone_style_syn {
+    width: 15.04px;
+    height: 15px;
+    transform: translateY(20%);
+  }
+  .clock_para_syn {
+    color: #050c18;
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 4px;
+  }
+  .phone_para_syn_bold {
+    color: #111111;
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .social-media-row {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5px;
+    margin-left: 9px;
+    transform: translateY(-12%);
+  }
+
+  .social-icon {
+    font-size: 0.65rem; /* Adjust the size as needed */
+    color: #000; /* Adjust the color as needed */
+    transition: color 0.3s;
+    margin-left: 1px;
+  }
+
+  .social-icon:hover {
+    color: #e7e7e7; /* Change color on hover */
+  }
+
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-right: 15px;
+  }
+
+  .content-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content-wrapper > div {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .social-media-row {
+    justify-content: center;
+  }
+  .transform_second_div {
+    transform: translateY(-70%) !important;
+  }
+  .synergytech_logo {
+    width: 119.43px;
+    height: 40px;
+    margin-left: 35px;
+    transform: translateY(0%) !important;
+  }
+  .navitems_synergytechnavbar1 {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar1:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .navitems_synergytechnavbar {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-right: 30px;
+
+    cursor: pointer;
+  }
+  .navitems_synergytechnavbar:hover {
+    color: #111111 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+    margin-left: 50px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+  .btn_request_quote {
+    background: #023496;
+    width: 210px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 50px;
+  }
+}

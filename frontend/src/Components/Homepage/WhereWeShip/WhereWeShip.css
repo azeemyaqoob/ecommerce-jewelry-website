@@ -1,0 +1,177 @@
+.main_WhereWeShip{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: auto;
+
+}
+.icon_style_shipment{
+        
+margin-top: 30px;
+}
+.heading_WhereWeShip{
+    color: #302F2F;
+    font-family: "David Libre", serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 38.61px;
+    text-align: center;
+    margin-top: 40px;
+}
+.heading_free_shipping{
+    color: #000000;
+    font-family: 'Overlock', sans-serif;
+    font-size: 19.5px;
+    font-weight: 700;
+    line-height: 23.8px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.para_free_shipping{
+    color: #000000;
+    font-family: 'Overlock', sans-serif;
+    font-size: 16.25px;
+    font-weight: 400;
+    line-height: 19.83px;
+    text-align: center;
+    
+}
+
+
+@media only screen and (max-width: 1520px) {
+    .main_WhereWeShip{
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: auto;
+    
+    }
+    .heading_WhereWeShip{
+        color: #302F2F;
+        font-family: "David Libre", serif;
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 38.61px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .heading_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 16.5px;
+        font-weight: 700;
+        line-height: 23.8px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .para_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 14.25px;
+        font-weight: 400;
+        line-height: 19.83px;
+        text-align: center;
+        
+    }
+    
+
+}
+
+
+
+@media only screen and (max-width: 1360px) {
+    .main_WhereWeShip{
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: auto;
+    
+    }
+    .heading_WhereWeShip{
+        color: #302F2F;
+        font-family: "David Libre", serif;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 38.61px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .icon_style_shipment{
+        width: 80px;
+    height: 80px;
+    margin-top: 30px;
+    }
+
+    .heading_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 14.5px;
+        font-weight: 700;
+        line-height: 23.8px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .para_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 12.25px;
+        font-weight: 400;
+        line-height: 19.83px;
+        text-align: center;
+        
+    }
+    
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .main_WhereWeShip{
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: auto;
+    
+    }
+    .heading_WhereWeShip{
+        color: #302F2F;
+        font-family: "David Libre", serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 38.61px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .icon_style_shipment{
+        width: 80px;
+    height: 80px;
+    margin-top: 30px;
+    }
+
+    .heading_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 23.8px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .para_free_shipping{
+        color: #000000;
+        font-family: 'Overlock', sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 14.83px;
+        text-align: center;
+        
+    }
+    
+
+}

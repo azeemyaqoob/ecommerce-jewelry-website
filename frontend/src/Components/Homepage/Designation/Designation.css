@@ -1,0 +1,1797 @@
+.main_div_designation {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  margin-top: 20px;
+}
+.main_description_designation {
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-top: 40px;
+  border: 1px solid #0162ca;
+  margin-bottom: 20px;
+}
+.header_designation {
+  color: #1d1729;
+  font-family: "Catamaran", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 9.04px;
+  text-align: left;
+}
+.by_description {
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #6c6a72;
+  margin-right: 4px;
+}
+.Spotify_description {
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #1d1729;
+  margin-right: 4px;
+}
+.Design_Creative_description {
+  color: #0162ca;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.btn_in_house {
+  width: auto;
+  height: 34px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #efeafd;
+  border-style: none;
+  outline: none;
+  color: #0162ca;
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.btn_in_house:hover {
+  width: auto;
+  height: 34px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #0162ca;
+  border-style: none;
+  outline: none;
+  color: #ffffff;
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+}
+.hr_line_below_header {
+  margin-top: 60px;
+  width: 70%;
+  border-bottom: 1px solid #1d17291a;
+  margin-bottom: 50px;
+}
+.description_heading {
+  color: #1d1729;
+  font-family: "Catamaran", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+}
+.description_para_designation {
+  color: #6c6a72;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30.4px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.blue_arrow {
+  margin-right: 15px;
+  width: 23.33px;
+  height: 22px;
+}
+.blue_Arrow_para {
+  color: #6c6a72;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.share_job_post_para {
+  color: #6c6a72;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30.4px;
+  text-align: left;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+.btn_facebook_post {
+  color: #ffffff;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  text-align: center;
+  width: 115.97px;
+  height: 39.19px;
+  background: #0162ca;
+  margin-top: 30px;
+  border-style: none;
+  outline: none;
+  margin-left: 10px;
+}
+.btn_Twitter_post {
+  color: #ffffff;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  text-align: center;
+  width: 115.97px;
+  height: 39.19px;
+  background: #26c4f1;
+  margin-top: 30px;
+  border-style: none;
+  outline: none;
+  margin-left: 10px;
+}
+.btn_Pinterest_post {
+  color: #ffffff;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  text-align: center;
+  width: 115.97px;
+  height: 39.19px;
+  background: #e82b2d;
+  margin-top: 30px;
+  border-style: none;
+  outline: none;
+  margin-left: 10px;
+}
+.hr_below_social_media {
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 40px;
+  border-bottom: 1px solid #1d17291a;
+  margin-bottom: 50px;
+}
+.card_div_jobs {
+  border: 1px solid #1d17291a;
+  background: #ffffff;
+  width: 85%;
+  height: 202.03px;
+  border-radius: 5px;
+  padding-top: 25px;
+  padding-left: 20px;
+  padding-right: 10px;
+  margin-bottom: 20px;
+}
+.title_card_jobs {
+  font-family: "Catamaran", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 9.04px;
+  text-align: left;
+  color: #1d1729;
+  margin-top: 15px;
+}
+.Design_Creative_description_orange {
+  color: #ff6809;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.btn_in_house_orange {
+  width: auto;
+  height: 34px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #efeafd;
+  border-style: none;
+  outline: none;
+  color: #0162ca;
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.btn_in_house_orange:hover {
+  width: auto;
+  height: 34px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #ff6809;
+  border-style: none;
+  outline: none;
+  color: #ffffff;
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+}
+.btn_aply_now {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  color: #ffffff;
+  box-shadow: 0px 28px 50px 0px #0000000d;
+  background: linear-gradient(112.11deg, #03228f 0%, #0b70e1 77%);
+  width: 90%;
+  height: 62px;
+  border-radius: 3px;
+  margin-top: 35px;
+  outline: none;
+  border-style: none;
+}
+.hr_blue_second_div {
+  border-top: 2px solid #0162ca;
+}
+.heading_interested_injob {
+  font-family: "Catamaran", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 9.2px;
+  text-align: center;
+  color: #1d1729;
+  margin-top: 50px;
+}
+.para_interested {
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16.4px;
+  text-align: center;
+  color: #6c6a72;
+}
+.apply_now_interested {
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18.2px;
+  text-align: center;
+  color: #ffffff;
+  width: 86%;
+  height: 58px;
+  margin-left: 7%;
+  background: #0162ca;
+  border-color: none;
+  border-style: none;
+  outline: none;
+}
+.hr_line_below_aply_now {
+  border-bottom: 1px solid #1d17291a;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.over_view_main {
+  padding: 25px;
+}
+.over_view_heading {
+  font-family: "Catamaran", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31.2px;
+  text-align: left;
+  color: #1d1729;
+}
+.heading_overview_para {
+  color: #6c6a72;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24.8px;
+  text-align: left;
+}
+.para_overview_para {
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.8px;
+  text-align: left;
+  color: #1d1729;
+}
+.para_overview_para:hover {
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.8px;
+  text-align: left;
+  color: #0162ca;
+}
+.send_us_btn {
+  border: 1px solid #0162ca;
+  background: #ffffff;
+  width: 100%;
+  height: 62px;
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18.2px;
+  text-align: center;
+  color: #0162ca;
+  margin-top: 50px;
+}
+.btn_social_media_links {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background: #efeafd;
+  color: #0162ca;
+  text-align: center;
+  border-style: none;
+  border-color: none;
+  outline: none;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 1730px) {
+  .main_div_designation {
+    width: 100%;
+    height: auto;
+    background-color: white;
+  }
+  .main_description_designation {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 40px;
+    border: 1px solid #0162ca;
+    margin-bottom: 20px;
+  }
+  .header_designation {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+  }
+  .by_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #6c6a72;
+    margin-right: 4px;
+  }
+  .Spotify_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #1d1729;
+    margin-right: 4px;
+  }
+  .Design_Creative_description {
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  .btn_in_house {
+    width: auto;
+    height: 34px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house:hover {
+    width: auto;
+    height: 34px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #0162ca;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .hr_line_below_header {
+    margin-top: 60px;
+    width: 70%;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .description_heading {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+  }
+  .description_para_designation {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.4px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .blue_arrow {
+    margin-right: 15px;
+    width: 23.33px;
+    height: 22px;
+  }
+  .blue_Arrow_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+  }
+  .share_job_post_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30.4px;
+    text-align: left;
+    margin-top: 30px;
+    margin-right: 20px;
+  }
+  .btn_facebook_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #0162ca;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Twitter_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #26c4f1;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Pinterest_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #e82b2d;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .hr_below_social_media {
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 40px;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .card_div_jobs {
+    border: 1px solid #1d17291a;
+    background: #ffffff;
+    width: 85%;
+    height: 202.03px;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .title_card_jobs {
+    font-family: "Catamaran", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+    color: #1d1729;
+    margin-top: 15px;
+  }
+  .Design_Creative_description_orange {
+    color: #ff6809;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .btn_in_house_orange {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house_orange:hover {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ff6809;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .btn_aply_now {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0px 28px 50px 0px #0000000d;
+    background: linear-gradient(112.11deg, #03228f 0%, #0b70e1 77%);
+    width: 90%;
+    height: 62px;
+    border-radius: 3px;
+    margin-top: 35px;
+  }
+  .hr_blue_second_div {
+    border-top: 2px solid #0162ca;
+  }
+  .heading_interested_injob {
+    font-family: "Catamaran", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 9.2px;
+    text-align: center;
+    color: #1d1729;
+    margin-top: 50px;
+  }
+  .para_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: center;
+    color: #6c6a72;
+  }
+  .apply_now_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #ffffff;
+    width: 86%;
+    height: 58px;
+    margin-left: 7%;
+    background: #0162ca;
+    border-color: none;
+    border-style: none;
+    outline: none;
+  }
+  .hr_line_below_aply_now {
+    border-bottom: 1px solid #1d17291a;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .over_view_main {
+    padding: 25px;
+  }
+  .over_view_heading {
+    font-family: "Catamaran", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .heading_overview_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: left;
+  }
+  .para_overview_para {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .para_overview_para:hover {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #0162ca;
+  }
+  .send_us_btn {
+    border: 1px solid #0162ca;
+    background: #ffffff;
+    width: 100%;
+    height: 62px;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #0162ca;
+    margin-top: 50px;
+  }
+  .btn_social_media_links {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #efeafd;
+    color: #0162ca;
+    text-align: center;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 1580px) {
+  .main_div_designation {
+    width: 100%;
+    height: auto;
+    background-color: white;
+  }
+  .main_description_designation {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 40px;
+    border: 1px solid #0162ca;
+    margin-bottom: 20px;
+  }
+  .header_designation {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+  }
+  .by_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #6c6a72;
+    margin-right: 4px;
+  }
+  .Spotify_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #1d1729;
+    margin-right: 4px;
+  }
+  .Design_Creative_description {
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  .btn_in_house {
+    width: auto;
+    height: 34px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house:hover {
+    width: auto;
+    height: 34px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #0162ca;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .hr_line_below_header {
+    margin-top: 60px;
+    width: 70%;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .description_heading {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+  }
+  .description_para_designation {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.4px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .blue_arrow {
+    margin-right: 15px;
+    width: 23.33px;
+    height: 22px;
+  }
+  .blue_Arrow_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+  }
+  .share_job_post_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: left;
+    margin-top: 38px;
+    margin-right: 20px;
+  }
+  .btn_facebook_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #0162ca;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Twitter_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #26c4f1;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Pinterest_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #e82b2d;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .hr_below_social_media {
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 40px;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .card_div_jobs {
+    border: 1px solid #1d17291a;
+    background: #ffffff;
+    width: 100%;
+    height: 202.03px;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .title_card_jobs {
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+    color: #1d1729;
+    margin-top: 15px;
+  }
+  .Design_Creative_description_orange {
+    color: #ff6809;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .btn_in_house_orange {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house_orange:hover {
+    width: auto;
+    height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ff6809;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .btn_aply_now {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0px 28px 50px 0px #0000000d;
+    background: linear-gradient(112.11deg, #03228f 0%, #0b70e1 77%);
+    width: 90%;
+    height: 62px;
+    border-radius: 3px;
+    margin-top: 35px;
+  }
+  .hr_blue_second_div {
+    border-top: 2px solid #0162ca;
+  }
+  .heading_interested_injob {
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 9.2px;
+    text-align: center;
+    color: #1d1729;
+    margin-top: 50px;
+  }
+  .para_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: center;
+    color: #6c6a72;
+  }
+  .apply_now_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #ffffff;
+    width: 86%;
+    height: 58px;
+    margin-left: 7%;
+    background: #0162ca;
+    border-color: none;
+    border-style: none;
+    outline: none;
+  }
+  .hr_line_below_aply_now {
+    border-bottom: 1px solid #1d17291a;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .over_view_main {
+    padding: 25px;
+  }
+  .over_view_heading {
+    font-family: "Catamaran", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .heading_overview_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: left;
+  }
+  .para_overview_para {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .para_overview_para:hover {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #0162ca;
+  }
+  .send_us_btn {
+    border: 1px solid #0162ca;
+    background: #ffffff;
+    width: 100%;
+    height: 62px;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #0162ca;
+    margin-top: 50px;
+  }
+  .btn_social_media_links {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #efeafd;
+    color: #0162ca;
+    text-align: center;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 1130px) {
+  .main_div_designation {
+    width: 100%;
+    height: auto;
+    background-color: white;
+  }
+  .main_description_designation {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 40px;
+    border: 1px solid #0162ca;
+    margin-bottom: 20px;
+  }
+  .header_designation {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+  }
+  .by_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #6c6a72;
+    margin-right: 4px;
+  }
+  .Spotify_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #1d1729;
+    margin-right: 4px;
+  }
+  .Design_Creative_description {
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  .btn_in_house {
+    width: auto;
+    height: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house:hover {
+    width: auto;
+    height: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #0162ca;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .hr_line_below_header {
+    margin-top: 60px;
+    width: 70%;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .description_heading {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+  }
+  .description_para_designation {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .blue_arrow {
+    margin-right: 15px;
+    width: 23.33px;
+    height: 22px;
+  }
+  .blue_Arrow_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+  }
+  .share_job_post_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: left;
+    margin-top: 38px;
+    margin-right: 20px;
+  }
+  .btn_facebook_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #0162ca;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Twitter_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #26c4f1;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .btn_Pinterest_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #e82b2d;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 10px;
+  }
+  .hr_below_social_media {
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 40px;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .card_div_jobs {
+    border: 1px solid #1d17291a;
+    background: #ffffff;
+    width: 100%;
+    height: 202.03px;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .title_card_jobs {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+    color: #1d1729;
+    margin-top: 15px;
+  }
+  .Design_Creative_description_orange {
+    color: #ff6809;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .btn_in_house_orange {
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house_orange:hover {
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ff6809;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .btn_aply_now {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0px 28px 50px 0px #0000000d;
+    background: linear-gradient(112.11deg, #03228f 0%, #0b70e1 77%);
+    width: 100%;
+    height: 62px;
+    border-radius: 3px;
+    margin-top: 35px;
+  }
+  .hr_blue_second_div {
+    border-top: 2px solid #0162ca;
+  }
+  .heading_interested_injob {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 9.2px;
+    text-align: center;
+    color: #1d1729;
+    margin-top: 50px;
+  }
+  .para_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: center;
+    color: #6c6a72;
+  }
+  .apply_now_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #ffffff;
+    width: 86%;
+    height: 58px;
+    margin-left: 7%;
+    background: #0162ca;
+    border-color: none;
+    border-style: none;
+    outline: none;
+  }
+  .hr_line_below_aply_now {
+    border-bottom: 1px solid #1d17291a;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .over_view_main {
+    padding: 25px;
+  }
+  .over_view_heading {
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .heading_overview_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: left;
+  }
+  .para_overview_para {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .para_overview_para:hover {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: #0162ca;
+  }
+  .send_us_btn {
+    border: 1px solid #0162ca;
+    background: #ffffff;
+    width: 100%;
+    height: 62px;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #0162ca;
+    margin-top: 50px;
+  }
+  .btn_social_media_links {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #efeafd;
+    color: #0162ca;
+    text-align: center;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .main_div_designation {
+    width: 100%;
+    height: auto;
+    background-color: white;
+  }
+  .main_description_designation {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 40px;
+    border: 1px solid #0162ca;
+    margin-bottom: 20px;
+  }
+  .header_designation {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+  }
+  .by_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #6c6a72;
+    margin-right: 4px;
+  }
+  .Spotify_description {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #1d1729;
+    margin-right: 4px;
+  }
+  .Design_Creative_description {
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  .btn_in_house {
+    width: auto;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+
+  .btn_in_house:hover {
+    width: auto;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background: #0162ca;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .hr_line_below_header {
+    margin-top: 60px;
+    width: 70%;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .description_heading {
+    color: #1d1729;
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: left;
+  }
+  .description_para_designation {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.4px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .blue_arrow {
+    margin-right: 15px;
+    width: 23.33px;
+    height: 22px;
+  }
+  .blue_Arrow_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+  }
+  .share_job_post_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+    text-align: left;
+    margin-top: 30px;
+    margin-right: 20px;
+  }
+  .btn_facebook_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #0162ca;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 0px;
+  }
+  .btn_Twitter_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #26c4f1;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 3px;
+  }
+  .btn_Pinterest_post {
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;
+    width: 115.97px;
+    height: 39.19px;
+    background: #e82b2d;
+    margin-top: 30px;
+    border-style: none;
+    outline: none;
+    margin-left: 3px;
+  }
+  .hr_below_social_media {
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 40px;
+    border-bottom: 1px solid #1d17291a;
+    margin-bottom: 50px;
+  }
+  .card_div_jobs {
+    border: 1px solid #1d17291a;
+    background: #ffffff;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  .title_card_jobs {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 9.04px;
+    text-align: left;
+    color: #1d1729;
+    margin-top: 15px;
+  }
+  .Design_Creative_description_orange {
+    color: #ff6809;
+    font-family: "Catamaran", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .btn_in_house_orange {
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #efeafd;
+    border-style: none;
+    outline: none;
+    color: #0162ca;
+    font-family: "Catamaran", sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    margin-right: 3px;
+    margin-top: 10px;
+  }
+
+  .btn_in_house_orange:hover {
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ff6809;
+    border-style: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Catamaran", sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+  }
+  .btn_aply_now {
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0px 28px 50px 0px #0000000d;
+    background: linear-gradient(112.11deg, #03228f 0%, #0b70e1 77%);
+    width: 100%;
+    height: 32px;
+    border-radius: 3px;
+    margin-top: 35px;
+  }
+  .hr_blue_second_div {
+    border-top: 2px solid #0162ca;
+  }
+  .heading_interested_injob {
+    font-family: "Catamaran", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 9.2px;
+    text-align: center;
+    color: #1d1729;
+    margin-top: 50px;
+  }
+  .para_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.4px;
+    text-align: center;
+    color: #6c6a72;
+  }
+  .apply_now_interested {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #ffffff;
+    width: 86%;
+    height: 58px;
+    margin-left: 7%;
+    background: #0162ca;
+    border-color: none;
+    border-style: none;
+    outline: none;
+  }
+  .hr_line_below_aply_now {
+    border-bottom: 1px solid #1d17291a;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .over_view_main {
+    padding: 25px;
+  }
+  .over_view_heading {
+    font-family: "Catamaran", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 31.2px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .heading_overview_para {
+    color: #6c6a72;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: left;
+  }
+  .para_overview_para {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: #1d1729;
+  }
+  .para_overview_para:hover {
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: #0162ca;
+  }
+  .send_us_btn {
+    border: 1px solid #0162ca;
+    background: #ffffff;
+    width: 100%;
+    height: 62px;
+    font-family: "Catamaran", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18.2px;
+    text-align: center;
+    color: #0162ca;
+    margin-top: 50px;
+  }
+  .btn_social_media_links {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #efeafd;
+    color: #0162ca;
+    text-align: center;
+    border-style: none;
+    border-color: none;
+    outline: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+}
